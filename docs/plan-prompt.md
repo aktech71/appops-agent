@@ -1,7 +1,7 @@
-I'm trying to build an application that will facilitate end user to help them deploy, manage their applcaition.
-This application will take input from the user which will consist of runtime, infra requirements, cloud or on-prem, any custom configurations, db involved or any other config that is neceaasry to run an application
+I'm trying to build an application that will facilitate end user to help them deploy, manage their application.
+This application will take input from the user which will consist of runtime, infra requirements, cloud or on-prem, any custom configurations, db involved or any other config that is necessary to run an application
 preferably in cloud.
-This app will also going to assist end-user with the feature of Observabiluty, this way user can have insights of his running application.
+This app will also going to assist end-user with the feature of Observability, this way user can have insights of his running application.
 
 I want this to be an Agentic application.
 
